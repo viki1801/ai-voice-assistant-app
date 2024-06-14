@@ -1,0 +1,2 @@
+
+const openAPIKey = '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';
